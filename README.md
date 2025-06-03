@@ -1,7 +1,7 @@
-<img src="https://media.tenor.com/FiwBsAKUe2wAAAAi/fischl-eyepatch.gif" width="100"/>
-
-<h5 align="left">I'm Arxycth, a passionate Fullstack developer from Indonesia.</h5>
-
+<div align="left">
+  <img src="https://media.tenor.com/FiwBsAKUe2wAAAAi/fischl-eyepatch.gif" width="100"/>
+  <h5>I'm Arxycth, a passionate Fullstack developer from Indonesia.</h5>
+</div>
 ###
 
 <br clear="both">
