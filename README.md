@@ -54,7 +54,7 @@
 
 ###
 
-<img src="https://profile-counter.glitch.me/arxycth/count.svg?" />
+<img src="https://komarev.com/ghpvc/?username=arxycth&style=for-the-badge" />
 
 ###
 
