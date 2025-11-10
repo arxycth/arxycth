@@ -1,6 +1,6 @@
 <div align="left">
 <!-- <img src="https://media.tenor.com/FiwBsAKUe2wAAAAi/fischl-eyepatch.gif" width="100"/> -->
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjZwYTU5aTd5aG0yZTZncXphc2s3eGcxeWVobHE2ZDU2c2ZzY2F0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xdiE2V3iVGUWZpzr5S/giphy.gif" width="1000" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnlqODdveng2czNmb3l3MGpldW4zN2VkbjM1dmtpbjUwN3p4bTF5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7sQcUntHVodrmyXRW0/giphy.gif" width="1000" />
   <h5>I'm Arxycth, a passionate Fullstack developer from Indonesia.</h5>
 </div>
 
