@@ -24,6 +24,7 @@
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="postgresql logo"  /> 
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 </div>
 
 ###
