@@ -63,7 +63,9 @@ I am a Full-stack Developer with a strong focus on enterprise-scale web applicat
 ## Technical Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,python,php,laravel,fastapi,mysql,postgres,solidity,aws,docker,linux,git,gitlab" height="45" alt="tech highlight" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,python,php,laravel,fastapi,mysql,postgres,solidity,aws" height="48" alt="tech highlight 1" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,gitlab,jquery,html,css,javascript" height="48" alt="tech highlight 2" />
 </div>
 
 <br>
