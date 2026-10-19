@@ -2,7 +2,7 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnlqODdveng2czNmb3l3MGpldW4zN2VkbjM1dmtpbjUwN3p4bTF5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7sQcUntHVodrmyXRW0/giphy.gif" width="800" alt="Banner" />
   
   <h1>Dimas Adiluhur Panggarbesi (Arxycth)</h1>
-  <h3>Full-Stack Developer | Web3 Developer</h3>
+  <h3>Staff Fullstack Software Engineer | Web3 Developer</h3>
   
   <p>
     Crafting Scalable Web Applications & Decentralized Solutions. <br>
@@ -23,19 +23,25 @@
 <br>
 
 ## About Me
-I am a Full-Stack Developer with a strong focus on modern web applications, backend architecture, and Web3 technologies. I specialize in building robust APIs, managing scalable relational databases, and developing decentralized applications (dApps). Always driven to deliver clean code and efficient client-server architectures.
+I am a Full-stack Developer with a strong focus on enterprise-scale web applications, backend architecture, and Web3 technologies. Experienced in developing end-to-end systems, integrating cross-sector third-party APIs (government, banking, and B2B), managing relational databases, and building decentralized applications (dApps). Always driven to deliver clean code, secure architectures, and efficient client-server solutions.
 
 <br>
 
 ## Professional Experience
 
+**Staff Fullstack Software Engineer | PT. Subaga Mitra Solusi**
+*October 2026 - Present*
+*   Responsible for end-to-end development and maintenance of enterprise-scale web systems using Laravel, MariaDB, and jQuery ecosystems.
+*   Designed functional interfaces, managed relational databases, and integrated complex third-party API services across sectors (government institutions, regional banks, and B2B partners).
+*   Standardized development environments and team collaboration using Docker, Linux/WSL, and GitLab.
+
 **Backend Developer Intern | Artificial Intelligence Literacy and Innovation Institute (ALII)**
-*Jan 2026 - Apr 2026*
+*January 2026 - April 2026*
 *   Engineered backend architectures utilizing Python and FastAPI to support a Retrieval-Augmented Generation (RAG) system for comprehensive academic document analysis.
 *   Integrated Large Language Models (LLM) into data preprocessing pipelines to efficiently parse, process, and extract structured insights from student thesis drafts.
 
 **Full-stack Web Developer | Freelance Software Development**
-*Sep 2024 - Present*
+*September 2025 - Present*
 *   Built, optimized, and maintained custom web applications for diverse clients utilizing the Laravel and Next.js ecosystems.
 *   Architected efficient relational database structures and developed responsive user interfaces with a focus on writing clean, scalable, and maintainable code.
 
@@ -57,17 +63,17 @@ I am a Full-Stack Developer with a strong focus on modern web applications, back
 ## Technical Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,python,php,laravel,fastapi,mysql,postgres,solidity,aws" height="45" alt="tech highlight" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,python,php,laravel,fastapi,mysql,postgres,solidity,aws,docker,linux,git,gitlab" height="45" alt="tech highlight" />
 </div>
 
 <br>
 
 | Area | Technologies |
 | :--- | :--- |
-| **Frontend** | React, Next.js, TypeScript, JavaScript, Tailwind CSS |
-| **Backend & Database** | Laravel, FastAPI, Node.js, Python, PHP, MySQL, PostgreSQL |
+| **Frontend** | React, Next.js, TypeScript, JavaScript, Tailwind CSS, jQuery |
+| **Backend & Database** | Laravel, FastAPI, Node.js, Python, PHP, SQL, MariaDB, MySQL, PostgreSQL |
 | **Web3 & Blockchain** | Solidity, Ethers.js, Base Layer 2, Hardhat, Blockchain Basics |
-| **Tools & Infrastructure** | Amazon Web Services (AWS), Oracle Cloud Infrastructure (OCI), Git, GitHub, Filament (TALL Stack) |
+| **Tools & Infrastructure** | Docker, Linux / Ubuntu (WSL), AWS, Oracle Cloud Infrastructure (OCI), Git, GitHub, GitLab, Filament (TALL Stack) |
 
 <br>
 
